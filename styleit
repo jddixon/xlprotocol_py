@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+
+if [ ! -z "${DEV_BASE// }" ]
+then
+  cd $DEV_BASE/py/xlprotocol_py
+  
+  autopep8 -ai -r xlprotocol *.py
+  
+else
+  echo "DEV_BASE is not defined"
+fi
