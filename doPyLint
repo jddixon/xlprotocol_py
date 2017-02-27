@@ -1,0 +1,5 @@
+# xlprotocol_py/doPyLint
+
+pylint setup.py  xlprotocol   \
+    test*.py
+
