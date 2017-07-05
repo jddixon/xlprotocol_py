@@ -1,4 +1,4 @@
------BEGIN RSA PUBLIC KEY-----
+-----BEGIN PUBLIC KEY-----
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAl9xsFHvzEsi3G8q8dUOM
 3v4WLJefw8Kv0hHBGFPFQF1WRPldwPGNdVKql8zcO52KO4hzFNHNSBCGgH8cbtAk
 mLWB78ackABFJzhY9TEbPkLnoMXJHAXQpZK/JAudSixuAZIXYtIyBWfgLaHjurAT
@@ -6,41 +6,41 @@ mLWB78ackABFJzhY9TEbPkLnoMXJHAXQpZK/JAudSixuAZIXYtIyBWfgLaHjurAT
 Giaje1YAJPNVBt3dlOA5lhBp4GpSYBskJ9UR2Zyt3lgAGK3dEwxYETLMh9VWEV8i
 k2lyCIE/V/CDb9eVDYQgYSJYrnQ/JAPST7NbcY8aI+/0l7QVBhLBpmOCvmS6ofvz
 /QIDAQAB
------END RSA PUBLIC KEY-----
-xlprotocol_py v0.0.3
-2017-02-24 21:52:31
+-----END PUBLIC KEY-----
+xlprotocol_py v0.0.5
+2017-07-05 04:04:16
 # BEGIN CONTENT #
 xlprotocol_py
  .dvcz
-  builds f7e6bb3d2713e0c485ed84799b7eed867e1030d5
-  copyright 03efbf5a1d4c1f2a8e01f434653fab4f20777238
-  lastBuildList e947d8d7841a58d544238e834c132a44fe03e56f
+  builds 44196246651f5ce55b935d2421ffa40d5ebae2ec
+  copyright 04e8696e6424c21d717e46008780505d598eb59a
+  lastBuildList 6ee9595da33df2ab53be453555178330f45bdeee
   license 5977a55c75bb4612004451a56b0b4c22d9d3311d
-  projCfg efea1093fd9b41cdfe614f74e2514d751e3e71d0
+  projCfg 4ceef5d5e154752eea88083eea980ad51a01ad95
   projCfg.local 98429e018e077f8884855431e2dfb40276238228
-  version f64099d5c32949f539b8cd578fd55ea7eea92f92
- .gitignore b2cc5fa149056ba0a01449dcdb19409728483a5c
- CHANGES 788763b2f818491215a4e65704e14f96e192b371
- LICENSE-MIT.md 22d1a7acfe925d189280793d86aa9b1dc542daab
+  version 7ba30195f78c8f0ba5dc69cbe27ab5cbffc5ffd9
+ .gitignore 5185a3cb0539828e50edfc25d60c80ae291197fa
+ CHANGES f25f7f9fbb76dd0a06c9a8ef4bab751f1622911f
+ LICENSE-MIT.md aec2b90058ed291d26eef53badc44802cda9bcde
+ MANIFEST.in ab66c4ba9f7b7352eb828e32839a387bf990125b
  README.md 0889adb24fd82c23c8e252d29fdc12ae69d7e130
  TODO dbcafb7ed220c8f1f73a17879bbf456c2b96e356
  bkp2U 21a72f4162871a7ae48f13a8df5dcc5e88e9ae4a
- checkCoverage 5bbaaceeeed2cbde5188f228fd28b0f4d7330bef
- countem ac0b3dfc95b4892729509f3e8379ac17041e5998
- dist
-  xlprotocol_py-0.0.2.tar.gz fd78c5472942f046b6106019d0e4693b477b691e
-  xlprotocol_py-0.0.3.tar.gz 02cb44cc57dd1113faaea7319a006f2b15a95ece
- doPyLint 868bc5cad1f12e0f0854ac4cecb15c5dc5634e90
+ checkCoverage 5691247f32bfba2cd90893c0d561deca8ad8d756
+ countem b3040d935409585828a749072cf736aa03208186
+ doPyLint ef38ec35ab858630bb875678e5e247acb055bc1d
  ghpDoc
   index.md b148b18520b83acd355b5f46718c439bfa1f53fe
  installit 9a432940323f7fb775e655d75e11087487bb9ed5
  pylintrc dd234fda24a547a9071f1e4608a3c1f3b7de9aa0
- setup.py 91b93f4aa24c822c5cf94569b598a56a91a0beca
- styleit 20dacee8470405007d9960d20d265ecb12285758
- test.all 939ef36a5a07b73d2a04ebe633f231dc2da90171
- test_basics.py a3dace3b136373dd6d70ddfad3f9a467234cacfb
- xlprotocol
-  __init__.py 9b671ffc2d7fe027f9dceb1ea5c5023f6b1db45e
+ setup.py 5beb475439614c9054ade3519c1a84cfbd8e55b9
+ src
+  xlprotocol
+   __init__.py b031f50746b2fd06f25ade4273cb47c9e2779e64
+ styleit 835cf4d8c312bd7d569eb80026e1c8e7cff02e2a
+ test.all df3009d2a2b9a52ac434eb37ed78c3203fd1ff8c
+ tests
+  test_basics.py f4fb4f63ba7f3b293fe24940ccf9a583019ce24b
 # END CONTENT #
 
-QYjcXRiyH69ZV3gbwyObKgiw+/VOwDmPp2YrLTLhRZ4IefrXCuiqMFnSvN/pYqSp5pFXmGxJ6Arqngn2tC7vEtlu+l9vNJ4dkPki+UvQxN+1kezbVcXjK2RiaxWcaIf2SkpVvqGMPhcGLg8w7IrP6xe5izjJIFeT/QrXPDnVEAgdJkkH5hMYKb8b9+3YaVNHxOIuo6MvkII0+qccOxn9dYNl2X1MR6WEwOZ7Fy5kIDnVKHWUsWde+KQRpQ+qupvfAhvDme1Thm+PhhzbSep1Hix4lK+0coX3iokx4iQyEwaq2EcBsFZfrVt/vXTyksUfeDpo3ST9cxVMVm2xz9T1iw==
+aQFWYB8wPfMyAzrJBamtFFJ/KP6Ui213rFev4bOAdFzWzC6Kd3D1+bF9RnQbNe3EihPuK0KhLHC3rNNJN9aVD0/cdZIk9cuqpetcJ0A4FvNMIAYDznxxLJsaafshah2+oQOuDoKQoWz+eG1RN5q1YW2El0B1VmrU408pgXh47eQxW3Rwpqe5R9SrbpiPM03MVyWwEP+0fyvPUHqqawzk9/3iQy4fzq/KO6w0xYVn5XcVPNE5F4S+c7qDKGvYrPNBS9ZfDybZ2qrU593lhAFKl4LtPvdaIQ9a8exg205ihSffUmeeAZReKzXevndTWhlASPMWn5Eplip6RUJquVTIiw==
