@@ -2,11 +2,13 @@
 project:xlprotocol_py
 package:xlprotocol
 mainlang:py
-version:0.0.1
-versionDate:2017-02-22
+version:0.0.4
+versionDate:2017-06-01
 :?dirs?:
 dir:std:ghpDoc
 dir:std:dist
+dir:std:src
+dir:std:tests
 dir:std:.dvcz
 dir:pkg:xlprotocol
 dir:clr:build
@@ -39,4 +41,3 @@ bash:std:doPyLint
 bash:std:checkCoverage
 bash:std:bkp2u
 py:std:setup.py
-py:test:test_basics.py
