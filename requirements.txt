@@ -1,0 +1,2 @@
+# buildlist/requirements.txt
+setuptools
