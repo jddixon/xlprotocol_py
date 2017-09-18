@@ -7,40 +7,47 @@ Giaje1YAJPNVBt3dlOA5lhBp4GpSYBskJ9UR2Zyt3lgAGK3dEwxYETLMh9VWEV8i
 k2lyCIE/V/CDb9eVDYQgYSJYrnQ/JAPST7NbcY8aI+/0l7QVBhLBpmOCvmS6ofvz
 /QIDAQAB
 -----END PUBLIC KEY-----
-xlprotocol_py v0.0.6
-2017-08-07 18:50:11
+xlprotocol_py v0.0.7
+2017-09-18 20:42:46
 # BEGIN CONTENT #
 xlprotocol_py
+ .cache
+  v
+   cache
+    lastfailed bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f
  .dvcz
-  builds 01c12a968ac5d1d643c73257bff38ac1c6100ff5
+  builds 843cb536018ad0ccc5cd3ac5d2ea37da33437ffd
   copyright 04e8696e6424c21d717e46008780505d598eb59a
-  lastBuildList 4f70ee693218aafb40ef77474bd08a3ec595967f
+  lastBuildList 749f94e65e9e27c1c52fe753d7c40eb4c303b302
   license 5977a55c75bb4612004451a56b0b4c22d9d3311d
-  projCfg 4ceef5d5e154752eea88083eea980ad51a01ad95
+  projCfg 0ed2700c9b0b376529eb8d067cca8b668f4b1686
   projCfg.local 98429e018e077f8884855431e2dfb40276238228
-  version f90ca063afeafe89f59d94fa1b82206ae057e048
- .gitignore 5185a3cb0539828e50edfc25d60c80ae291197fa
- CHANGES 7d639f45ba289192a931befccb707a0b6ca25b2e
+  version ac5218bfd320be664b25d4bb068f0a4e89bee8ea
+ .gitignore c8129c7133b7a7755cefd3dfc62a9af7bc306aa0
+ CHANGES c6c22cbafe35f7e42453d7e901649db5e0ec53c1
  LICENSE-MIT.md aec2b90058ed291d26eef53badc44802cda9bcde
- MANIFEST.in ab66c4ba9f7b7352eb828e32839a387bf990125b
+ MANIFEST.in 4adf906b2cd5a5e68a3d78a36d9c643627646b7e
  README.md 0889adb24fd82c23c8e252d29fdc12ae69d7e130
  TODO dbcafb7ed220c8f1f73a17879bbf456c2b96e356
  bkp2U 21a72f4162871a7ae48f13a8df5dcc5e88e9ae4a
  checkCoverage 5691247f32bfba2cd90893c0d561deca8ad8d756
- countem b3040d935409585828a749072cf736aa03208186
- doPyLint ef38ec35ab858630bb875678e5e247acb055bc1d
+ countem 8cfed8b10b94be59fee581ff0b74b9665c63f7f9
+ doPyLint 31321ad99eb3b9ac0928a68c29a8b5b88c9472fb
  ghpDoc
   index.md b148b18520b83acd355b5f46718c439bfa1f53fe
  installit 9a432940323f7fb775e655d75e11087487bb9ed5
  pylintrc dd234fda24a547a9071f1e4608a3c1f3b7de9aa0
+ requirements.txt 9b146943fccb2070013de0bed60b068780c46a1c
  setup.py 2769c6321c920985aae22896bce59d86a20b933c
  src
   xlprotocol
-   __init__.py 411ed712671a9b432e813871a48cc74bd3593883
+   __init__.py 4c83706d6fed38af3b67b890cc8af49526dc6ea9
  styleit 835cf4d8c312bd7d569eb80026e1c8e7cff02e2a
- test.all df3009d2a2b9a52ac434eb37ed78c3203fd1ff8c
+ test.all 44b15245f041a7640070eb8744fb22607fd509e0
+ test_requirements.txt b1d886535da0309771ee244131350c9ecb16882b
  tests
-  test_basics.py f4fb4f63ba7f3b293fe24940ccf9a583019ce24b
+  test_basics.py d54f0d628c7210a043fc58ba1f3481e396ea98f1
+ tox.ini dc8be9adc995c2a7c0126226c6b217e83c9055a6
 # END CONTENT #
 
-YF7BXmIhdYu/QW+PWEjJs+5o0rAWKI4PWVJoiAv1ow7ZWVpKvdzNnNiKB4RSpHVEz5bqQQ2bg7lPFpWmIeOhbOHDa1cA2elMsjzxapOSPVCiewEP7q32HrUgozAOyGsYTiee0+lPMPLKwckAt5LwCaWwz/R1lH7duRpm9jxq5lsQb8u7fOM1XYwi7L3m+68ukjI9r6pfoshhZJCX3idrT+HRr7kru0fMlbv3PJIELqzwbtQpRYYKVj94hYHLM3QP1Tf8O0BLO7U903WbKfirnWdYlt7Ab5lJMC9JQkCtbAd2P+1sNtSeXTVyZaerfnRvNTXhiHEESzKIOgg4y8WYjg==
+PPL9VP3elcFFyATixN3bWVIVOfhv+hLdouV4JyvosHPXsnih2rIXDsRVfvedQADShFTjrakpT+ikb68sL8n6yapQAOKbT3CV2t4tES2BZq3TBYNvrshelpi2UgwyKatAGaeExw8T23gmfIKztAF+efx30rUjhJuLHu24/ToYvIDUqTOj6G/A0DIONJ5x0xH0/KmQJnr3mnbIKL/x+RL4ly7x/hmDOQQVsVLCsPiLKMpNcLz9l0yqnq+rSyCCalc7I4BF7wBirS/zzv4i0n9tHooBWOVM7cFrI0EnSBrLBDIFjFaavhu+QvLOLfgcm713IVxaSSikAB5K3ywrU8YfMg==
