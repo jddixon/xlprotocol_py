@@ -1,5 +1,8 @@
 py/xlprotocol_py/CHANGES
 
+v0.0.8
+    2017-10-12
+        * add projConfig.toml                                       SLOC  441
 v0.0.7
     2017-09-18
         * pep8 etc; add tox.ini, *requirements.txt                  SLOC  398
@@ -21,6 +24,7 @@ v0.0.2
 v0.0.1
     2017-02-22
         * initial configuration
+
 
 
 
