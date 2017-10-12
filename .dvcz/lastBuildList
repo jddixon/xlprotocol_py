@@ -7,24 +7,21 @@ Giaje1YAJPNVBt3dlOA5lhBp4GpSYBskJ9UR2Zyt3lgAGK3dEwxYETLMh9VWEV8i
 k2lyCIE/V/CDb9eVDYQgYSJYrnQ/JAPST7NbcY8aI+/0l7QVBhLBpmOCvmS6ofvz
 /QIDAQAB
 -----END PUBLIC KEY-----
-xlprotocol_py v0.0.7
-2017-09-18 20:42:46
+xlprotocol_py v0.0.8
+2017-10-12 17:32:22
 # BEGIN CONTENT #
 xlprotocol_py
- .cache
-  v
-   cache
-    lastfailed bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f
  .dvcz
-  builds 843cb536018ad0ccc5cd3ac5d2ea37da33437ffd
+  builds 18655f75418c0ddc2381cfd72c414c24475cfe49
   copyright 04e8696e6424c21d717e46008780505d598eb59a
-  lastBuildList 749f94e65e9e27c1c52fe753d7c40eb4c303b302
+  lastBuildList e87b08f095a10eaef2686610051a08c128e4665f
   license 5977a55c75bb4612004451a56b0b4c22d9d3311d
   projCfg 0ed2700c9b0b376529eb8d067cca8b668f4b1686
   projCfg.local 98429e018e077f8884855431e2dfb40276238228
-  version ac5218bfd320be664b25d4bb068f0a4e89bee8ea
+  projConfig.toml e2a41f53f1dfaabe4bafe918414f4c1fdf95705e
+  version fc66685b37e20c00ca19073bd8594a78c765cf4e
  .gitignore c8129c7133b7a7755cefd3dfc62a9af7bc306aa0
- CHANGES c6c22cbafe35f7e42453d7e901649db5e0ec53c1
+ CHANGES 0214bc12927684868c507c00aa8a63d4cd46643c
  LICENSE-MIT.md aec2b90058ed291d26eef53badc44802cda9bcde
  MANIFEST.in 4adf906b2cd5a5e68a3d78a36d9c643627646b7e
  README.md 0889adb24fd82c23c8e252d29fdc12ae69d7e130
@@ -38,10 +35,10 @@ xlprotocol_py
  installit 9a432940323f7fb775e655d75e11087487bb9ed5
  pylintrc dd234fda24a547a9071f1e4608a3c1f3b7de9aa0
  requirements.txt 9b146943fccb2070013de0bed60b068780c46a1c
- setup.py 2769c6321c920985aae22896bce59d86a20b933c
+ setup.py ed05f2b30e1d383dc53fe02b8bfc3601201279fa
  src
   xlprotocol
-   __init__.py 4c83706d6fed38af3b67b890cc8af49526dc6ea9
+   __init__.py 0c89b4c703673d685fc95903d7fbdc7f094f0e8d
  styleit 835cf4d8c312bd7d569eb80026e1c8e7cff02e2a
  test.all 44b15245f041a7640070eb8744fb22607fd509e0
  test_requirements.txt b1d886535da0309771ee244131350c9ecb16882b
@@ -50,4 +47,4 @@ xlprotocol_py
  tox.ini dc8be9adc995c2a7c0126226c6b217e83c9055a6
 # END CONTENT #
 
-PPL9VP3elcFFyATixN3bWVIVOfhv+hLdouV4JyvosHPXsnih2rIXDsRVfvedQADShFTjrakpT+ikb68sL8n6yapQAOKbT3CV2t4tES2BZq3TBYNvrshelpi2UgwyKatAGaeExw8T23gmfIKztAF+efx30rUjhJuLHu24/ToYvIDUqTOj6G/A0DIONJ5x0xH0/KmQJnr3mnbIKL/x+RL4ly7x/hmDOQQVsVLCsPiLKMpNcLz9l0yqnq+rSyCCalc7I4BF7wBirS/zzv4i0n9tHooBWOVM7cFrI0EnSBrLBDIFjFaavhu+QvLOLfgcm713IVxaSSikAB5K3ywrU8YfMg==
+L8HLC93Qr+AI8r9rtu93imiIRW3uzZeiZKhe8DTZgwEzpMtos8TsrbPPO0UnxRz796LGWc8lgAKGg8v/lMf5VqlnTkDOLSJz6axCJyKBTpn6qaSXcYaIZNEky0lVxGYxOu6nENs6rEFfbipSeWHInTZ2cE3Qf/yNyelAyIZQvwCmnZHkLjOBpNk0h6LhgLpj6K+LT3AqtZuF8yCAJSPvjAwT9rDNDokE7RGBg98O76//TSobpLIeEjMNXnTkJSIye7/7ojcLJCo+NL/0xtlLGGuCyuqwozRsbAt2/dfPEo/VmaepkFSk3zej2IAYjpLEenRW0JO6YF+5B3lWLK4J1g==
