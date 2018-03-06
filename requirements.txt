@@ -1,2 +1,2 @@
-# buildlist/requirements.txt
+# xlprotocol_py/requirements.txt
 setuptools
